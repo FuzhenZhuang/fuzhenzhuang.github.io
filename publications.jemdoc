@@ -1,0 +1,77 @@
+# jemdoc: menu{MENU}{publications.html}
+= Publications
+
+== See All Publications Here
+[https://scholar.google.com/citations?user=klJBYrAAAAAJ&hl=en&oi=ao Google Citation Profile]
+
+== Journal Papers
+. Yangli-ao Geng, Qingyong Li, Rong Zheng, Fuzhen Zhuang, Ruisi He, Naixue Xiong: RECOME: a New Density-Based Clustering Algorithm Using Relative KNN Kernel Density. Information Sciences, 2018. (Accept)
+. Xiang Ao, Ping Luo, Jin Wang, Fuzhen Zhuang, Qing He: Mining Precise-positioning Episode Rules from Event Sequences. IEEE Transactions on Knowledge and Data Engineering, 2017. (Accept)
+. Fuzhen Zhuang, Xuebing Li, Xin Jin, Dapeng Zhang, Lirong Qiu, Qing He: Semantic Feature Learning for Heterogeneous Multi-task Classification via Non-negative Matrix Factorization. IEEE Transactions on Cybernetics, 2017. (Accept) [PDF]
+. Fuzhen Zhuang, Xiaohu Cheng, Ping Luo, Sinno Jialin Pan, Qing He: Supervised Representation Learning with Double Encoding-layer Autoencoder for Transfer Learning. ACM Transactions on Intelligent Systems and Technology, 2017. (Accept) [PDF]
+. Ning Li, Wenjuan Luo, Kun Yang, Fuzhen Zhuang, Qing He, Zhongzhi Shi: Self-organizing Weighted Incremental Probabilistic Latent Semantic Analysis. International Journal of Machine Learning and Cybernetics, 2017. (Accept)
+. Fuzhen Zhuang, Zhiqiang Zhang, Mingda Qian, Chuan Shi, Xing Xie and Qing He: Representation Learning via Dual-Autoencoder for Recommendation. Neural Networks, 2017. [PDF]
+. Jing Zheng, Jian Liu, Chuan Shi, Fuzhen Zhuang, Jingzhi Li, Bin Wu: Recommendation in heterogeneous information network via dual similarity regularization. International Journal of Data Science and Analytics, 2017. [PDF]
+. Chuan Shi, Jian Liu, Fuzhen Zhuang, Philip S. Yu, Bin Wu: Integrating Heterogeneous Information via Flexible Regularization Framework for Recommendation. Knowledge and Information Systems (2016). [PDF]
+. Haocheng Wang, Fuzhen Zhuang, Xin Jin, Xiang Ao, Qing He: Bag of little bootstraps on features for enhancing classification performance. Intelligent Data Analysis, 2016. [PDF]
+. Shuhui Wang, Fuzhen Zhuang, Shuqiang Jiang, Qingming Huang, Qi Tian: Cluster-Sensitive Structured Correlation Analysis for Web Cross-Modal Retrieval. Neurocomputing (2015). [PDF]
+. Wenjuan Luo, Fuzhen Zhuang, Weizhong Zhao, Qing He, Zhongzhi Shi: QPLSA: Utilizing quadtuples for aspect identification and rating. Inf. Process. Manage. 51(1): 25-41 (2015). [PDF]
+. Wenchao Yu, Fuzhen Zhuang, Qing He, Zhongzhi Shi: Learning deep representations via extreme learning machines. Neurocomputing 149 : 308-315 (2015). [PDF]
+. Qing He, Haocheng Wang, Fuzhen Zhuang, Tianfeng Shang, Zhongzhi Shi: Parallel sampling from big data with uncertainty distribution. Fuzzy Sets and Systems 258 : 117-133 (2015). [PDF]
+. Fuzhen Zhuang, Ping Luo, Changying Du, Qing He, Zhongzhi Shi, Hui Xiong: Triplex Transfer Learning: Exploiting Both Shared and Distinct Concepts for Text Classification. IEEE T. Cybernetics 44 (7): 1191-1203 (2014). [PDF]
+. Xiang Ao, Ping Luo, Xudong Ma, Fuzhen Zhuang, Qing He, Zhongzhi Shi, Zhiyong Shen: Combining supervised and unsupervised models via unconstrained probabilistic embedding. Inf. Sci. 257 : 101-114 (2014). [PDF]
+. Shuo Han, Fuzhen Zhuang, Qing He, Zhongzhi Shi, Xiang Ao: Energy Model for Rumor Propagation on Social Networks. Physica A: Statistical Mechanics and its Applications, 394: 99-109 (2014). [PDF]
+. Qing He, Xin Jin, Changying Du, Fuzhen Zhuang, Zhongzhi Shi: Clustering in Extreme Learning Machine Feature Space. Neurocomputing, 2014. [PDF]
+. Wenjuan Luo, Fuzhen Zhuang, Qing He, Zhongzhi Shi. Exploiting relevance, coverage, and novelty for query-focused multi-document summarization. Knowledge-based Systems. pp.33-42, 2013. [PDF]
+. Qing He, Tianfeng Shang, Fuzhen Zhuang, Zhongzhi Shi. “Parallel Extreme Learning Machine for Regression based on MapReduce”. Neurocomputing, pp.52-58, 2013. [PDF]
+. Xin Jin, Yongquan Liang, Dongping Tian, Fuzhen Zhuang. Particle swarm optimization using dimension selection methods. Applied Mathematics and Computation, pp.5185-5197, 2013. [PDF]
+. Fuzhen Zhuang, Ping Luo, Zhiyong Shen, Qing He, Yuhong Xiong, Zhongzhi Shi, Hui Xiong. “Mining Distinction and Commonality across Multiple Domains using Generative Model for Text Classification”. IEEE TKDE , pp.2025-2039, 2012. [PDF]
+. Fuzhen Zhuang, George Karypis, Xia Ning, Qing He, Zhongzhi Shi.: Multi-view Learning via Probabilistic Latent Semantic Analysis. Information Sciences, pp.20-30, 2012. [PDF]
+. Shengmei Luo, Qing He, Lixia Liu, Xiang Ao, Ning Li, Fuzhen Zhuang: Parallel Web Mining System Based on Cloud Platform. ZTE Communications, 10(4): 45-53 (2012). [PDF]
+. Fuzhen Zhuang, Ping Luo, Hui Xiong, Qing He, Yuhong Xiong, Zhongzhi Shi. “Exploiting Associations between Word Clusters and Document Classes for Cross-domain Text Categorization”. Statistical Analysis and Data Mining, Wiley, pp.100-114, 2011. [PDF]
+. Qing He, Changying Du, Qun Wang, Fuzhen Zhuang, Zhongzhi Shi. A parallel incremental extreme SVM classifier. Neurocomputing, pp.2532-2540, 2011. [PDF]
+. Fuzhen Zhuang, Ping Luo, Hui Xiong, Yuhong Xiong, Qing He, Zhongzhi Shi. “Cross-domain Learning From Multiple Sources: A Consensus Regularization Perspective”. IEEE TKDE , 2010, 22(12), pp. 1664–1678. [PDF]
+. Zhuang Fuzhen, Luo Ping, He Qing, Shi Zhongzhi. “Inductive Transfer Learning for Unlabeled Target-domain via Hybrid Regularization”. Chinese Science Bulletin, 2009, 54(14): 2470–2478. [PDF]
+
+== Conference Papers
+. Yuwei Huang, Xi Yang, Fuzhen Zhuang, Lishan Zhang, Shengquan Yu: Automatic Chinese Reading Comprehension Grading by LSTM with Knowledge Adaptation. PAKDD 2018. (Accepted)
+. Jing Zheng, Fuzhen Zhuang, Chuan Shi: Local Ensemble across Multiple Sources for Collaborative Filtering. CIKM 2017. (Accept) [PDF]
+. Jia He, Changying Du, Changde Du, Fuzhen Zhuang, Qing He, Guoping Long: Nonlinear Maximum Margin Multi-View Learning with Adaptive Kernel. IJCAI 2017. (Accept) [PDF]
+. Fuzhen Zhuang, Lang Huang, He Jia, Jixin Ma and Qing He: Transfer Learning with Manifold Regularized Convolutional Neural Network.KSEM 2017. (Accept) [PDF]
+. Fuzhen Zhuang, Zhou Yingmin, Fuzheng Zhang, Xiang Ao, Xing Xie and Qing He: Sequential Transfer Learning: Cross-domain Novelty Seeking Trait Mining for Recommendation. WWW Poster Track 2017. [PDF]
+. Xiang Ao, Ping Luo, Jin Wang, Fuzhen Zhuang, Qing He: Mining Precise-positioning Episode Rules from Event Sequences. ICDE Poster Track 2017. [PDF]
+. Fuzhen Zhuang, Dan Luo, Nicholas Jing Yuan, Xing Xie, Qing He: Representation Learning with Pair-wise Constraints for Collaborative Ranking. WSDM 2017. [PDF]
+. Jia He, Changying Du, Fuzhen Zhuang, Xin Yin, Qing He, Guoping Long: Online Bayesian Maxmargin Subspace Multi-view Learning. IJCAI 2016. [PDF]
+. Fuzhen Zhuang, Ping Luo, Sinno Jialin Pan, Hui Xiong, Qing He: Ensemble of Anchor Adapters for Transfer Learning. CIKM 2016. [PDF]
+. Changying Du, Fuzhen Zhuang, Jia He, Qing He, Guoping Long: Learning beyond Predefined Label Space via Bayesian Nonparametric Topic Modelling. ECML/PKDD 2016. [PDF]
+. Yitong Li, Chuan Shi, Huidong Zhao, Fuzhen Zhuang, Bin Wu: Aspect Mining with Rating Bias. ECML/PKDD 2016. [PDF]
+. Jing Zheng, Jian Liu , Chuan Shi, Fuzhen Zhuang, Jingzhi Li, Bin Wu: Dual Similarity Regularization for Recommendation. PAKDD 2016. [PDF]
+. Fuzhen Zhuang, Dan Luo, Xin Jin, Hui Xiong, Ping Luo, Qing He: Representation Learning via Semi-supervised Autoencoder for Multi-task Learning. ICDM 2015. [PDF]
+. Xin Jin, Fuzhen Zhuang, Sinno Jialin Pan, Ping Luo, Qing He: Heterogeneous Multi-task Semantic Feature Learning for Classification. CIKM 2015. [PDF]
+. Xin Jin, Ping Luo, Fuzhen Zhuang, Jia He, Qing He: Collaborating between Local and Global Learning for Distributed Online Multiple Tasks. CIKM 2015. [PDF]
+. Fuzhen Zhuang, Xiaohu Cheng, Ping Luo, Sinno Jialin Pan, Qing He: Supervised Representation Learning: Transfer Learning with Deep Autoencoders. IJCAI 2015. [PDF]
+. Changying Du, Shandian Zhe, Fuzhen Zhuang, Alan Qi, Qing He, Zhongzhi Shi: Bayesian Maximum Margin Principal Component Analysis. AAAI 2015. [PDF]
+. Xiang Ao, Ping Luo, Chengkai Li, Fuzhen Zhuang, Qing He: Online Frequent Episode Mining. ICDE 2015. [PDF]
+. Xinyu Wu, Ping Luo, Qing He, Tianshu Feng,Fuzhen Zhuang: Festival, Date and Limit Line: Predicting Vehicle Accident Rate in Beijing. SDM 2015. [PDF]
+. Fuzhen Zhuang, Xiaohu Cheng, Sinno Jialin Pan, Wenchao Yu, Qing He, Zhongzhi Shi: Transfer Learning with Multiple Sources via Consensus Regularized Autoencoders. ECML/PKDD (3) 2014: 417-431. [PDF]
+. Xin Jin, Fuzhen Zhuang, Hui Xiong, Changying Du, Ping Luo, Qing He: Multi-task Multi-view Learning for Heterogeneous Tasks. CIKM 2014: 441-450. [PDF]
+. Wenjuan Luo, Fuzhen Zhuang, Xiaohu Cheng, Qing He, Zhongzhi Shi: Ratable Aspects over Sentiments: Predicting Ratings for Unrated Reviews. ICDM 2014. [PDF]
+. Changying Du, Jia He, Fuzhen Zhuang, Yuan Qi, Qing He: Nonparametric Bayesian Multi-Task Large-margin Classification. ECAI 2014: 255-260. [PDF]
+. Xiang Ao, Ping Luo, Chengkai Li, Fuzhen Zhuang, Qing He, Zhongzhi Shi: Discovering and learning sensational episodes of news events. WWW (Companion Volume) 2014 : 217-218. [PDF]
+. Shuo Han, Fuzhen Zhuang, Qing He, Zhongzhi Shi: Balanced Seed Selection for Budgeted Influence Maximization in Social Networks. PAKDD (1) 2014 : 65-77. [PDF]
+. Fuzhen Zhuang, Ping Luo, Peifeng Yin, Qing He, Zhongzhi Shi: Concept Learning for Cross-domain Text Classification: a General Probabilistic Framework. IJCAI, Beijing, China, pp.1960–1966, 2013. [PDF]
+. Fuzhen Zhuang, Ping Luo, Changying Du, Qing He, Zhongzhi Shi. Triplex transfer learning: exploiting both shared and distinct concepts for text classification. ACM WSDM, Rome, Italy, pp.425–434, 2013. [PDF]
+. Xin Jin, Fuzhen Zhuang, Shuihui Wang, Qing He, Zhongzhi Shi. Shared Structure Learning for Multiple Tasks with Multiple Views. ECML/PKDD 2013. [PDF]
+. Wenchao Yu, Ping Luo, Guangxiang Zeng, Fuzhen Zhuang, Qing He, Zhongzhi Shi. Embedding with Autoencoder Regularization. ECML/PKDD 2013. [PDF]
+. Tianfeng Shang, Qing He, Fuzhen Zhuang, Zhongzhi Shi. Extreme Learning Machine Combining Matrix Factorization for Collaborative Filtering. International Joint Conference on Neural Networks (IJCNN), 2013. [PDF]
+. Tianfeng Shang, Qing He, Fuzhen Zhuang, Zhongzhi Shi. A New Similarity Measure Based on Preference Sequences for Collaborative Filtering. The 15th Asia-Pacific Web Conference (APWeb), Sydney, Australia, pp.384-391, 2013. [PDF]
+. Changying Du, Fuzhen Zhuang, Qing He, Zhongzhi Shi. Multi-task Semi-supervised Semantic Fea- ture Learning for Classification. in Proceedings of the 10th IEEE ICDM, Brussels, Belgium, pp.191-200, 2012. [PDF]
+. Wenjuan Luo, Fuzhen Zhuang, Qing He, Zhongzhi Shi. Quad-tuple PLSA: Incorporating Entity and Its Rating for Aspect Identification. PAKDD, Kuala Lumpur, Malaysia, pp.292-404, 2012. [PDF]
+. Xudong Ma, Ping Luo, Fuzhen Zhuang, Qing He, Zhongzhi Shi, Zhiyong Shen. “Combining Su- pervised and Unsupervised Models via Unconstrained Probabilistic Embedding”. in Proceedings of IJCAI, Barcelona, Spain, pp.1396-1401, 2011. [PDF]
+. Fuzhen Zhuang, Ping Luo, Zhiyong Shen, Qing He, Yuhong Xiong, Zhongzhi Shi. “D-LDA: A Topic Modeling Approach without Constraint Generation for Semi-Defined Classification”. in Proceedings of the 10th IEEE ICDM , Sydney, Australia, pp. 709–718, 2010. [PDF]
+. Fuzhen Zhuang, Ping Luo, Zhiyong Shen, Qing He, Yuhong Xiong, Zhongzhi Shi, Hui Xiong. “Collaborative Dual-PLSA: Mining Distinction and Commonality across Multiple Domains for Text Classification”. in Proceedings of the ACM 19th CIKM, Toronto, Canada, pp. 359–368, 2010. (among the 8 best paper candidates) [PDF]
+. Fuzhen Zhuang, Ping Luo, Hui Xiong, Qing He, Yuhong Xiong, Zhongzhi Shi. “Exploiting Asso- ciations between Word Clusters and Document Classes for Cross-domain Text Categorization”. in Proceedings of the SIAM SDM , Columbus, Ohio, USA, pp. 13-24, 2010. (among the 12 best paper candidates) [PDF]
+. Ping Luo, Fuzhen Zhuang, Hui Xiong, Yuhong Xiong, Qing He. “Transfer Learning From Multiple Source Domains via Consensus Regularization”. in Proceedings of the ACM 17th CIKM, Napa Valley, California, USA, pp. 103–112, 2008. [PDF]
+
+== Ph.D. Thesis
+Research on Text Classification Algorithms in Transfer Learning

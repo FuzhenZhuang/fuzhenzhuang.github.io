@@ -1,0 +1,8 @@
+add information:
+add new information in corresponding jemdoc file
+
+update files:(python2)
+python jemdoc.py index transfer publications talks teaching group call4papers
+
+documentations:
+https://jemdoc.jaboc.net/index.html
