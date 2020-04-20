@@ -23,6 +23,99 @@
 </td>
 <td id="layout-content">
 <h1>Transfer Learning</h1>
+
+<h2>Deqing Wang, Baoyu Jing, Chenwei Lu, Junjie Wu, Guannan Liu, Chenguang Du, Fuzhen Zhuang*: Coarse Alignment of Topic and Sentiment: A Unified Model for Cross-Lingual Sentiment Classification. IEEE Transactions on Neural Networks and Learning Systems, 2020.</h2>
+<table class="imgtable" >
+<tr>
+<td style="text-align:center;"><img src="./img/transfer/TNNLS2020_3.png" height="200px"/></td>
+  <td align="left" Colspan="2">
+    <ul>
+      <li>
+        <p>Cross-lingual sentiment classification (CLSC) aims
+to leverage rich-labeled resources in the source language to
+improve prediction models of a resource-scarce domain in the
+target language. Existing feature representation learning based
+approaches try to minimize the difference of latent features
+between different domains by exact alignment, which is achieved
+by either one-to-one topic alignment or matrix projection. Exact
+alignment, however, restricts the representation flexibility, and
+further degrades model performances on cross-lingual sentiment
+classification tasks if the distribution difference between two
+language domains is large. On the other hand, most previous
+studies proposed document-level models or ignored sentiment
+polarities of topics that might lead to insufficient learning of
+latent features. To solve the above problems, we propose a coarse
+alignment mechanism to enhance model’s representation by a
+group-to-group topic alignment into an aspect-level fine-grained
+model. First, we propose an unsupervised aspect, opinion and
+sentiment unification model (AOS), which tri-models aspects,
+opinions and sentiments of reviews from different domains
+and helps capture more accurate latent feature representation
+by a coarse alignment mechanism. To further boost AOS, we
+propose ps-AOS, a partial supervised AOS model, in which
+labeled source language data help minimize the difference of
+feature representations between two language domains with the
+help of logistics regression. Last, an Expectation-Maximization
+framework with Gibbs sampling is then proposed to optimize our
+model. Extensive experiments on various multilingual product
+review data sets show that ps-AOS significantly outperforms
+various kinds of state-of-the-art baselines.</li>
+    </ul>
+  </td>
+</tr>
+</table>
+
+<h2>Yongchun Zhu, Fuzhen Zhuang*, Jindong Wang, Guolin Ke, Jingwu Chen, Jiang Bian, Hui Xiong and Qing He: Deep Subdomain Adaptation Network for Image Classification. IEEE Transactions on Neural Networks and Learning Systems 2020.</h2>
+<table class="imgtable"><tr>
+<td align="left"  Colspan="2">
+<ul>
+<li><p>
+For a target task where labeled data is unavailable, domain adaptation can transfer a learner from a different source domain. Previous deep domain adaptation methods mainly learn a global domain shift, i.e., align the global source and target distributions without considering the relationships between two subdomains within the same category of different domains, leading to unsatisfying transfer learning performance without capturing the fine-grained information. 
+Recently, more and more researchers pay attention to Subdomain Adaptation which focuses on accurately aligning the distributions of the relevant subdomains. However, most of them are adversarial methods which contain several loss functions and converge slowly. Based on this, we present Deep Subdomain Adaptation Network (DSAN) which learns a transfer network by aligning the relevant subdomain distributions of domain-specific layer activations across different domains based on a local maximum mean discrepancy (LMMD). Our DSAN is very simple but effective which does not need adversarial training and converges fast. The adaptation can be achieved easily with most feed-forward network models by extending them with LMMD loss, which can be trained efficiently via back-propagation. Experiments demonstrate that DSAN can achieve remarkable results on both object recognition tasks and digit classification tasks. Our code will be available at: https://github.com/easezyc/deep-transfer-learning.
+</p>
+</li>
+</ul>
+</td></tr>
+<tr>
+<td>
+<img src="./img/transfer/TNNLS2020_1.png" alt="alt text" height="165px" />&nbsp;
+</td>
+<td>
+<img src="./img/transfer/TNNLS2020_2.png" alt="alt text" height="165px" />&nbsp;
+</td>
+</tr>
+</table>
+
+<h2>Pengpeng Zhao, Fuzhen Zhuang, Yanchi Liu, Victor S. Sheng, Jiajie Xu, Xiaofang Zhou and Hui Xiong: Exploiting Aesthetic Preference in Deep Cross Networks for Cross-domain Recommendation. TheWebConf 2020.</h2>
+<table class="imgtable"><tr>
+<td align="left"  Colspan="2">
+<ul>
+<li><p>
+Visual aesthetics of products plays an important role in the decision
+process when purchasing appearance-first products, e.g., clothes.
+Indeed, user’s aesthetic preference, which serves as a personality
+trait and a basic requirement, is domain independent and could be
+used as a bridge between domains for knowledge transfer. However,
+existing work has rarely considered the aesthetic information in
+product images for cross-domain recommendation. To this end, in
+this paper, we propose a new deep Aesthetic Cross-Domain Networks (ACDN), in which parameters characterizing personal aesthetic preferences are shared across networks to transfer knowledge
+between domains. Specifically, we first leverage an aesthetic network to extract aesthetic features. Then, we integrate these features
+into a cross-domain network to transfer users’ domain independent aesthetic preferences. Moreover, network cross-connections
+are introduced to enable dual knowledge transfer across domains.
+Finally, the experimental results on real-world datasets show that
+our proposed model ACDN outperforms benchmark methods in
+terms of recommendation accuracy.
+</li>
+</ul>
+</td></tr>
+<tr>
+<td align="center">
+<img src="./img/transfer/webconf2020_3.png" alt="alt text" height="415px" />&nbsp;
+</td>
+</tr>
+</table>
+
+
 <h2>Yongchun Zhu, Dongbo Xi, Bowen Song, Fuzhen Zhuang*, Shuai Chen, Xi Gu and Qing He: Modeling Users&rsquo; Behavior Sequences with Hierarchical Explainable Network for Cross-domain Fraud Detection. TheWebConf 2020.</h2>
 <table class="imgtable"><tr>
 <td align="left"  Colspan="2">
